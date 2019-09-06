@@ -3,3 +3,10 @@ body {
   text-align: center;
   font-family: "Arial";
 }
+#container {
+  width: 70%;
+  background: lightblue;
+  padding: 10px;
+  text-align: center;
+  margin: 30px auto;
+}
